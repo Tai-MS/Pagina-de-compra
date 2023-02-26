@@ -1,0 +1,15 @@
+#completeBuy{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    top: 20%;
+    right: 25%;
+    position: fixed;
+    color: orange;
+    background-color: white;
+    border-radius: 25px;
+    height: 15rem;
+    width: 50rem;
+    font-weight: 900;
+    font-size: 4rem;
+}
